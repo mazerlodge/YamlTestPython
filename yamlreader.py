@@ -28,8 +28,8 @@ if (fileType == "NOT_SET"):
 yamlFile = open(inFile) 
 
 if (fileType == "FRUITS"): 
-	fruitsList = yaml.load(yamlFile, Loader=yaml.FullLoader) 
-	print(fruitsList) 
+	fruitsDict = yaml.load(yamlFile, Loader=yaml.FullLoader) 
+	print(fruitsDict) 
 
 if (fileType == "CATEGORIES"):
 	categories = yaml.full_load(yamlFile) 

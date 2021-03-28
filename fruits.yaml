@@ -1,4 +1,5 @@
 # fruits.yaml 
+# This is a dictionary of 5 keys, each key associated with a numeric value
 apples: 20
 mangoes: 2
 banannas: 3 
