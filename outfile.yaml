@@ -1,0 +1,10 @@
+# This is a list containing two dictionaries 
+- sports:
+  - soccer
+  - football
+  - baseball
+- countries:
+  - USA
+  - Mexico
+  - Spain
+  - Italy

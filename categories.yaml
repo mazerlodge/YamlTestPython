@@ -1,0 +1,19 @@
+# categories.yaml 
+# This is a dictionary with two keys, each containing a list 
+
+sports: 
+    - soccer
+    - football 
+    - basketball 
+    - cricket 
+    - hockey 
+    - table tennis
+    
+countries:
+    - Pakistan
+    - USA
+    - India
+    - China
+    - Germany
+    - France
+    - Spain
